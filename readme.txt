@@ -29,7 +29,8 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. /tags/1.0/screenshot.png
+1. /tags/1.0/screenshot-1.png
+2. /tags/1.0/screenshot-2.png
 
 == Changelog ==
 
