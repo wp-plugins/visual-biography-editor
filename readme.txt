@@ -29,7 +29,7 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. screenshot.png
+1. /tags/1.0/screenshot.png
 
 == Changelog ==
 
