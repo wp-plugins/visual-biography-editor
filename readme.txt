@@ -29,7 +29,7 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. 
+1. The TinyMCE visual editor added to the *Users > Profile* page
 2. The formatted front end view for `the_author_description()` and `get_the_author_description()`
 
 == Changelog ==
