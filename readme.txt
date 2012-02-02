@@ -28,6 +28,7 @@ Please note that this plugins modifies the output of `the_author_description()` 
 = 1.1 =
 * Updates and bug fixes for older WordPress versions
 * Add plugin Banner to /assets/ folder for WordPress repository
+* Fix issue with JS loading on user-edit.php; when administrators edit other people's bio's
 
 = 1.0 =
 * Initial public release to the WordPress plugin repository
